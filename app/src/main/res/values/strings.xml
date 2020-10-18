@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListViewExample</string>
+    <string name="button1">ARRAY ADAPTER</string>
+    <string name="button2">CUSTOM ADAPTER</string>
+</resources>
